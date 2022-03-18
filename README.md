@@ -10,3 +10,8 @@ Néanmoins, j'ai tout de même fait
  - un random forest avec une prédiction des données
  - un t-test , une ANOVA  et test du khi-deux
  - Une matrice de corréalation
+
+mon objectif est d'aprendre la data science au complet pas que sur python mais aussi sur R grace à l'auto-formation et google.
+ma source d'apprentissage principale est :
+
+http://www.sthda.com/french/
